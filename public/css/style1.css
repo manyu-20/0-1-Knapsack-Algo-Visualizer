@@ -1,0 +1,55 @@
+.form1{
+  margin-top: 100px;
+  justify-content: space-between;
+
+ }
+body{
+  background: rgb(24,32,179);
+  background: linear-gradient(90deg, rgba(24,32,179,1) 0%, rgba(0,117,255,1) 18%, rgba(24,184,221,1) 64%);
+}
+
+
+.hello{
+  padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+#kp{
+  padding-right: 50px;
+  color: white
+}
+
+.matrix{
+  border: solid;
+  text-align: center;
+}
+
+.inl{
+  display: inline-block;
+  margin: 0;
+}
+
+.cont{
+  padding-bottom: 2rem;
+  font-weight: bolder;
+}
+.bt{
+   text-align:center;
+}
+.inl1{
+  text-align: center;
+}
+.cardContainer{
+  display: flex;
+ justify-content: center;
+ flex-direction: row;
+}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 0px;}
+}
+@keyframes mynewmove {
+  from {top: 0px;}
+  to {top: 100px;}
+}

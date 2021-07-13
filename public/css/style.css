@@ -1,0 +1,23 @@
+.form1{
+  margin-top: 100px;
+  justify-content: space-between;
+
+ }
+body{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(13,13,119,1) 0%, rgba(0,212,255,1) 47%);
+}
+
+.hello{
+  padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+#kp{
+  padding-right: 50px;
+  color: white
+}
+
+.matrix{
+  border: solid blue;
+}
